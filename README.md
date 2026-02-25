@@ -4,7 +4,7 @@
 
 ## Información de la estudiante
 
-Nombres y Apellidos \[No. Control]; correo institucional
+Angelica Ashia Haro Najar \[23210708]; l23210708@tectijuana.edu.mx
 
 Modelado de Sistemas Fisiológicos
 
